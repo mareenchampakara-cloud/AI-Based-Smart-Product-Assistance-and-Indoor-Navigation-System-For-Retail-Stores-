@@ -8,4 +8,4 @@
 
 ---
 
-# AI-Based-Smart-Product-Assistance-and-Indoor-Navigation-System-For-Retail-Stores-
+# AI-Based-Smart-Product-Assistance-and-Indoor-Navigation-System-For-Retail-Stores
