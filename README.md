@@ -12,7 +12,7 @@
 
 <div align="center">
   
-**Rovan John, MSc BDA, 252BDA42· Mareen Biju George, MSc BDA, 252BDA21· A Carton Britto, MCA, 253MCA64.G Jeshwanth, MCA, 253MCA02·Shaik Mohammad Farhanulla Sami, MCA, 253MCA52·**
+**Rovan John, MSc BDA, 252BDA42· Mareen Biju George, MSc BDA, 252BDA21· A Carton Britto, MCA, 253MCA64.G Jeswanth, MCA, 253MCA02·Shaik Mohammad Farhanulla Sami, MCA, 253MCA52·**
 
 </div>
 
