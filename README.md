@@ -112,26 +112,7 @@ The system consists of the following modules:
 8. Response Generation Module
 
 
-## 5.2 Data Collection
-
-The product dataset is collected from retail inventory databases and contains:
-
-| Attribute               | Description                   |
-| ----------------------- | ----------------------------- |
-| Product ID              | Unique identifier             |
-| Product Name            | Product title                 |
-| Category                | Product classification        |
-| Brand                   | Manufacturer                  |
-| Price                   | Product cost                  |
-| Nutritional Information | Calories, Protein, Fat, Sugar |
-| Customer Ratings        | User reviews                  |
-| Product Description     | Detailed information          |
-
-The collected data is stored in a structured MySQL database.
-
----
-
-## 5.3 Data Preprocessing
+## 5.2 Data Preprocessing
 
 Before recommendation generation, the dataset undergoes preprocessing.
 
@@ -144,27 +125,7 @@ Tasks performed:
 * Correct inconsistent product names
 * Standardize categories
 
-### Step 2: Feature Engineering
 
-New features are generated:
-
-* Price Range
-* Health Score
-* Popularity Score
-* Recommendation Weight
-
-### Step 3: Text Processing
-
-Product descriptions are processed using NLP techniques:
-
-* Tokenization
-* Stop Word Removal
-* Lemmatization
-* TF-IDF Vectorization
-
-The processed text is later used by recommendation models.
-
----
 
 ## 5.4 User Query Processing
 
